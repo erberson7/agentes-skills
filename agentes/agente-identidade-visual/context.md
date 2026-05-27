@@ -1,3 +1,6 @@
-# context.md
+# Contexto: Agente Identidade Visual
 
-A ser definido para agente-identidade-visual.
+## Variaveis da sessao ativa
+- formato_atual: feed / stories / carrossel / Reel
+- paleta_aplicada: cores usadas na sessao
+- estilo_escolhido: clean / bold / minimalista
