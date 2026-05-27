@@ -1,3 +1,6 @@
-# workflows.md
+# Workflows: Agente Identidade Visual
 
-A ser definido para agente-identidade-visual.
+## Posicao nos workflows
+
+criar-post-instagram: etapa 2 - transforma roteiro em briefing visual
+gerar-carrossel: etapa 2 - define visual de cada slide
