@@ -1,3 +1,6 @@
-# memory.md
+# Memoria: Agente Criador de Imagem
 
-A ser definido para agente-criador-imagem.
+## O que memorizar por sessao
+- Estilo visual aplicado na sessao
+- Prompts ja gerados (para manter consistencia)
+- Formato predominante da sessao
