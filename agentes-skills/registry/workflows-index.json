@@ -1,0 +1,51 @@
+[
+  {
+    "workflow": "criar-post-instagram",
+    "status": "ativo",
+    "tipo_execucao": "sequencial",
+    "validacao_usuario": true,
+    "agentes": [
+      "agente-roteirizador",
+      "agente-identidade-visual",
+      "agente-criador-imagem"
+    ],
+    "steps": [
+      {
+        "name": "roteirizacao",
+        "agent": "agente-roteirizador",
+        "output_key": "roteiro_gerado"
+      },
+      {
+        "name": "validacao_roteiro",
+        "type": "user_validation",
+        "prompt": "O roteiro está bom? [sim/não]"
+      },
+      {
+        "name": "identidade_visual",
+        "agent": "agente-identidade-visual",
+        "output_key": "estilo_visual"
+      },
+      {
+        "name": "criacao_imagem",
+        "agent": "agente-criador-imagem",
+        "output_key": "imagem_final"
+      }
+    ]
+  },
+  {
+    "workflow": "fallback",
+    "status": "ativo",
+    "tipo_execucao": "sequencial",
+    "validacao_usuario": false,
+    "agentes": [
+      "agente-atendimento"
+    ],
+    "steps": [
+      {
+        "name": "informar_erro",
+        "agent": "agente-atendimento",
+        "output_key": "mensagem_erro"
+      }
+    ]
+  }
+]
