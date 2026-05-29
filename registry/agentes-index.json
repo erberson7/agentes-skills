@@ -1,0 +1,64 @@
+[
+  {
+    "nome": "agente-roteirizador",
+    "status": "ativo",
+    "prioridade": "alta",
+    "funcao": "Cria roteiros e legendas para posts de Instagram",
+    "workflow_default": "criar-post-instagram",
+    "skills": [
+      "criar-roteiro-post",
+      "criar-legenda"
+    ],
+    "tags": [
+      "instagram",
+      "conteudo",
+      "copywriting"
+    ]
+  },
+  {
+    "nome": "agente-identidade-visual",
+    "status": "ativo",
+    "prioridade": "alta",
+    "funcao": "Define branding visual e aplica identidade visual a elementos",
+    "workflow_default": "criar-post-instagram",
+    "skills": [
+      "aplicar-identidade-visual",
+      "gerar-paleta-cores"
+    ],
+    "tags": [
+      "branding",
+      "visual"
+    ]
+  },
+  {
+    "nome": "agente-criador-imagem",
+    "status": "ativo",
+    "prioridade": "media",
+    "funcao": "Gera imagens com base em descrições e identidade visual da marca",
+    "workflow_default": "criar-post-instagram",
+    "skills": [
+      "gerar-imagem-ia",
+      "adaptar-formato"
+    ],
+    "tags": [
+      "imagem",
+      "visual",
+      "ia"
+    ]
+  },
+  {
+    "nome": "agente-atendimento",
+    "status": "ativo",
+    "prioridade": "baixa",
+    "funcao": "Fornece respostas padrão e direciona o usuário em caso de erros ou dúvidas",
+    "workflow_default": "fallback",
+    "skills": [
+      "responder-padrao",
+      "direcionar-ajuda"
+    ],
+    "tags": [
+      "atendimento",
+      "suporte"
+    ]
+  }
+]
