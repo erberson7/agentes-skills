@@ -2,6 +2,7 @@
 
 | Agente | Funcao | Tags | Status |
 |--------|--------|------|--------|
+| agente-geral | Assistente pessoal para temas diversos | geral, conversacao, apoio | ativo |
 | agente-roteirizador | Cria roteiros e legendas | instagram, conteudo | ativo |
 | agente-identidade-visual | Define e aplica estilo visual | visual, branding | ativo |
 | agente-criador-imagem | Gera imagens e artes finais | imagem, visual | ativo |
