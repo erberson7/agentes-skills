@@ -47,5 +47,21 @@
         "output_key": "mensagem_erro"
       }
     ]
+  },
+  {
+    "workflow": "agente-geral-livre",
+    "status": "ativo",
+    "tipo_execucao": "sequencial",
+    "validacao_usuario": false,
+    "agentes": [
+      "agente-geral"
+    ],
+    "steps": [
+      {
+        "name": "conversa_geral",
+        "agent": "agente-geral",
+        "output_key": "resposta_geral"
+      }
+    ]
   }
 ]
