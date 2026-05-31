@@ -1,5 +1,24 @@
 [
   {
+    "nome": "agente-geral",
+    "status": "ativo",
+    "prioridade": "media",
+    "funcao": "Assistente pessoal para temas diversos, melhor amigo digital do Francisco",
+    "workflow_default": "agente-geral-livre",
+    "skills": [
+      "organizacao-de-ideias",
+      "explicacao-de-conceitos",
+      "apoio-em-conteudo",
+      "brainstorming"
+    ],
+    "tags": [
+      "geral",
+      "conversacao",
+      "apoio",
+      "pessoal"
+    ]
+  },
+  {
     "nome": "agente-roteirizador",
     "status": "ativo",
     "prioridade": "alta",
