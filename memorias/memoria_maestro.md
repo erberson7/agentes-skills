@@ -49,3 +49,6 @@ Slide 7:
 
 CTA:
 "Se você curtiu essas dicas, toque duas vezes na tela e me diz nos comentários: qual foi o comando que mais surpreendeu você?"
+
+[2026-06-03T05:11:47.076Z] Usuário: Limpar historico
+[2026-06-03T05:11:47.076Z] Maestro: Desculpe, Francisco, mas eu não posso limpar o histórico da conversa por conta das limitações técnicas. Minha função é te ajudar a pensar melhor, organizar ideias, explicar conceitos, entre outras coisas. Se você tiver alguma dúvida ou precisar de assistência em um determinado assunto, sinta-se à vontade para me perguntar.
