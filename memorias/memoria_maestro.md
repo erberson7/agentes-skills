@@ -1,7 +1,1 @@
-# Memória do Maestro
-
-> Arquivo global de memória de conversas.
-
-## Histórico
-
-(Nenhum histórico ainda)
+# Memória do Maestro  > Arquivo global de memória de conversas.  ## Histórico  (Memória limpa. Nova sessão iniciada.)
