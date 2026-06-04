@@ -49,3 +49,22 @@ Opção 2:
 "Sabe aquele sonho que você pensou em desistir? Hoje é dia de lembrar por que ele vale cada esforço."
 
 Agora, me diga, qual desses ganchos você acredita que irá atrair mais a atenção do seu público? Depois de escolher, irei desenvolver o roteiro completo do post.
+
+[2026-06-04T14:29:11.028Z] Usuário: Opção 1
+[2026-06-04T14:29:11.028Z] Maestro: Maravilha! A Opção 1 realmente parece um excelente início. Aqui está o roteiro do seu post:
+
+---
+
+**Gancho:** "Você acordou com o pé esquerdo hoje? Vamos mudar essa energia!"
+
+**Desenvolvimento:**
+"Em dias assim, tudo parece mais difícil, não é mesmo? Mas lembre-se: todo dia é dia de recomeçar, de se reinventar, de buscar o novo. Você é mais forte do que imagina e cada adversidade é apenas uma oportunidade de se tornar ainda melhor. 💪
+
+Hoje, faça um acordo consigo mesmo: não permita que seu humor dite seu desempenho. Lembre-se dos seus maiores sonhos e o que te trouxe até aqui. Você é capaz e acredito em você."
+
+**Chamada à ação:**
+"Conhece alguém que também acordou meio para baixo hoje? Marque essa pessoa aqui nos comentários para que ela receba este pequeno impulso de positividade."
+
+---
+
+E aí, o que acha? Precisa de alguma alteração ou posso ajudar com algo mais?
