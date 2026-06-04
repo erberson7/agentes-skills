@@ -36,3 +36,16 @@ Assim que tiver essas informações, podemos começar a criar o roteiro.
 3. Qual é o objetivo principal deste post? Você está mirando em engajamento, conversão ou autoridade?
 
 Assim que tiver essas informações, podemos começar a criar o roteiro.
+
+[2026-06-04T14:27:59.557Z] Usuário: Tema: motivação 
+Tom: inspirador
+Objetivo: engajamento
+[2026-06-04T14:27:59.557Z] Maestro: Claro, CEO. Agora que temos o tema, tom e objetivo, vamos às opções de gancho para o seu post com o tema "Motivação". 
+
+Opção 1:
+"Você acordou com o pé esquerdo hoje? Vamos mudar essa energia!"
+
+Opção 2:
+"Sabe aquele sonho que você pensou em desistir? Hoje é dia de lembrar por que ele vale cada esforço."
+
+Agora, me diga, qual desses ganchos você acredita que irá atrair mais a atenção do seu público? Depois de escolher, irei desenvolver o roteiro completo do post.
