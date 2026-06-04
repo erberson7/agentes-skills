@@ -14,3 +14,13 @@
 
 [2026-06-04T03:42:06.812Z] Usuário: Você pode me chamar de CEO ao inves de Francisco tá bem
 [2026-06-04T03:42:06.812Z] Maestro: Claro, CEO. A partir de agora lhe chamarei de CEO. Como posso ajudar hoje?
+
+[2026-06-04T03:42:55.546Z] Usuário: Vamos fazer um roteiro para POST no Instagram?
+[2026-06-04T03:42:55.546Z] Maestro: Claro, CEO. Para começar, precisarei que você me informe alguns detalhes:
+
+1. Qual é o tema que você deseja abordar neste post do Instagram?
+2. Qual formato você prefere? Será um Reel, carrossel ou post de feed?
+3. Qual é o tom da mensagem? Você deseja que seja inspirador, educativo ou provocativo?
+4. Qual é o objetivo principal deste post? Você está mirando em engajamento, conversão ou autoridade?
+
+Assim que tiver essas informações, podemos começar a criar o roteiro.
