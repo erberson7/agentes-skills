@@ -27,3 +27,12 @@ Assim que tiver essas informações, podemos começar a criar o roteiro.
 
 [2026-06-04T03:49:37.237Z] Usuário: Vou dormir agora, amanhã a gente conversa mais
 [2026-06-04T03:49:37.237Z] Maestro: Claro, CEO. Tenha uma boa noite de sono e até amanhã! Ficarei à disposição para quando precisar. Descanse bem!
+
+[2026-06-04T14:26:33.302Z] Usuário: Queria o roteiro curto para postar no Instagram
+[2026-06-04T14:26:33.302Z] Maestro: Claro, CEO. Para começar, precisarei que você me informe alguns detalhes:
+
+1. Qual é o tema que você deseja abordar neste post do Instagram?
+2. Qual é o tom da mensagem? Você deseja que seja inspirador, educativo ou provocativo?
+3. Qual é o objetivo principal deste post? Você está mirando em engajamento, conversão ou autoridade?
+
+Assim que tiver essas informações, podemos começar a criar o roteiro.
